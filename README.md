@@ -1,6 +1,6 @@
 # numerr
 
-[![PkgGoDev](https://pkg.go.dev/badge/tenntenn/numerr)](https://pkg.go.dev/tenntenn/numerr)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/tenntenn/numerr)](https://pkg.go.dev/github.com/tenntenn/numerr)
 
 `numerr` provides a numbered error.
 
