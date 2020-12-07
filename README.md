@@ -1,4 +1,4 @@
-# exec
+# numerr
 
 [![PkgGoDev](https://pkg.go.dev/badge/tenntenn/numerr)](https://pkg.go.dev/tenntenn/numerr)
 
